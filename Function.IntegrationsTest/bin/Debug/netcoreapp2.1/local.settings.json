@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "DotnetExecutablePath": "%ProgramFiles%\\dotnet\\dotnet.exe",
+  "FunctionHostPath": "%APPDATA%\\npm\\node_modules\\azure-functions-core-tools\\bin\\func.dll",
+  "FunctionApplicationPath":  "..\\..\\..\\..\\Function.Integrations\\bin\\Debug\\netcoreapp2.1"
+}
